@@ -1,6 +1,5 @@
 /.idea/
 /.iml
 
-
-/wiimq-core/wiimq-core.iml
+/wiimq-core/*.iml
 /wiimq-core/target/
